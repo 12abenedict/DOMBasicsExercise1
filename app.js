@@ -64,7 +64,7 @@ aTag.insertAdjacentElement(`afterend`, h5);
 // const superman = document.querySelector(`ul>li`);
 // superman.remove();
 // OR
-document.querySelector(`ul>li`).remove();
+// document.querySelector(`ul>li`).remove();
 
 // BONUS
 // 13a
